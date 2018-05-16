@@ -16,6 +16,7 @@ public class JavaApplication15 {
      */
     public static void main(String[] args) {
         System.out.print(:"Hellow Git");
+        System.out.print(:"Hellow Git");
     }
     
 }
